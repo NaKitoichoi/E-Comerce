@@ -1,0 +1,5602 @@
+[
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14-001",
+    "thumb": "https://picsum.photos/300/300?random=1000",
+    "images": [
+      "https://picsum.photos/600/600?random=2000",
+      "https://picsum.photos/600/600?random=2001",
+      "https://picsum.photos/600/600?random=2002"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 50,
+    "sold": 0,
+    "stockStatus": "out-of-stock",
+    "rating": 3.5,
+    "reviews": 50,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14 Pro",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14PRO-002",
+    "thumb": "https://picsum.photos/300/300?random=1001",
+    "images": [
+      "https://picsum.photos/600/600?random=2003",
+      "https://picsum.photos/600/600?random=2004",
+      "https://picsum.photos/600/600?random=2005"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 51,
+    "sold": 2,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 60,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14 Pro Max",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14PROMAX-003",
+    "thumb": "https://picsum.photos/300/300?random=1002",
+    "images": [
+      "https://picsum.photos/600/600?random=2006",
+      "https://picsum.photos/600/600?random=2007",
+      "https://picsum.photos/600/600?random=2008"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 52,
+    "sold": 4,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 70,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 Pro Max with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "sku": "AP-IPHONE13-004",
+    "thumb": "https://picsum.photos/300/300?random=1003",
+    "images": [
+      "https://picsum.photos/600/600?random=2009",
+      "https://picsum.photos/600/600?random=2010",
+      "https://picsum.photos/600/600?random=2011"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 53,
+    "sold": 6,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 80,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 13 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 13 Pro Max",
+    "brand": "Apple",
+    "sku": "AP-IPHONE13PROMAX-005",
+    "thumb": "https://picsum.photos/300/300?random=1004",
+    "images": [
+      "https://picsum.photos/600/600?random=2012",
+      "https://picsum.photos/600/600?random=2013",
+      "https://picsum.photos/600/600?random=2014"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 54,
+    "sold": 8,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 90,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 13 Pro Max with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S22",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS22-006",
+    "thumb": "https://picsum.photos/300/300?random=1005",
+    "images": [
+      "https://picsum.photos/600/600?random=2015",
+      "https://picsum.photos/600/600?random=2016",
+      "https://picsum.photos/600/600?random=2017"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 55,
+    "sold": 10,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 100,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S22 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S22 Ultra",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS22ULTRA-007",
+    "thumb": "https://picsum.photos/300/300?random=1006",
+    "images": [
+      "https://picsum.photos/600/600?random=2018",
+      "https://picsum.photos/600/600?random=2019",
+      "https://picsum.photos/600/600?random=2020"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 56,
+    "sold": 12,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 110,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S22 Ultra with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S23",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS23-008",
+    "thumb": "https://picsum.photos/300/300?random=1007",
+    "images": [
+      "https://picsum.photos/600/600?random=2021",
+      "https://picsum.photos/600/600?random=2022",
+      "https://picsum.photos/600/600?random=2023"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 57,
+    "sold": 14,
+    "stockStatus": "out-of-stock",
+    "rating": 4.2,
+    "reviews": 120,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S23 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS23ULTRA-009",
+    "thumb": "https://picsum.photos/300/300?random=1008",
+    "images": [
+      "https://picsum.photos/600/600?random=2024",
+      "https://picsum.photos/600/600?random=2025",
+      "https://picsum.photos/600/600?random=2026"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 58,
+    "sold": 16,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 130,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S23 Ultra with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy A54",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYA54-010",
+    "thumb": "https://picsum.photos/300/300?random=1009",
+    "images": [
+      "https://picsum.photos/600/600?random=2027",
+      "https://picsum.photos/600/600?random=2028",
+      "https://picsum.photos/600/600?random=2029"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 59,
+    "sold": 18,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 140,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy A54 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Redmi Note 12",
+    "brand": "Xiaomi",
+    "sku": "XI-REDMINOTE12-011",
+    "thumb": "https://picsum.photos/300/300?random=1010",
+    "images": [
+      "https://picsum.photos/600/600?random=2030",
+      "https://picsum.photos/600/600?random=2031",
+      "https://picsum.photos/600/600?random=2032"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 60,
+    "sold": 20,
+    "stockStatus": "in-stock",
+    "rating": 4.5,
+    "reviews": 150,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Redmi Note 12 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Redmi Note 12 Pro",
+    "brand": "Xiaomi",
+    "sku": "XI-REDMINOTE12PRO-012",
+    "thumb": "https://picsum.photos/300/300?random=1011",
+    "images": [
+      "https://picsum.photos/600/600?random=2033",
+      "https://picsum.photos/600/600?random=2034",
+      "https://picsum.photos/600/600?random=2035"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 61,
+    "sold": 22,
+    "stockStatus": "in-stock",
+    "rating": 4.6,
+    "reviews": 160,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Redmi Note 12 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 12T",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI12T-013",
+    "thumb": "https://picsum.photos/300/300?random=1012",
+    "images": [
+      "https://picsum.photos/600/600?random=2036",
+      "https://picsum.photos/600/600?random=2037",
+      "https://picsum.photos/600/600?random=2038"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 62,
+    "sold": 24,
+    "stockStatus": "in-stock",
+    "rating": 4.7,
+    "reviews": 170,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 12T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 13",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI13-014",
+    "thumb": "https://picsum.photos/300/300?random=1013",
+    "images": [
+      "https://picsum.photos/600/600?random=2039",
+      "https://picsum.photos/600/600?random=2040",
+      "https://picsum.photos/600/600?random=2041"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 63,
+    "sold": 26,
+    "stockStatus": "in-stock",
+    "rating": 4.8,
+    "reviews": 180,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 13 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 13 Pro",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI13PRO-015",
+    "thumb": "https://picsum.photos/300/300?random=1014",
+    "images": [
+      "https://picsum.photos/600/600?random=2042",
+      "https://picsum.photos/600/600?random=2043",
+      "https://picsum.photos/600/600?random=2044"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 64,
+    "sold": 28,
+    "stockStatus": "out-of-stock",
+    "rating": 4.9,
+    "reviews": 190,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 13 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Reno8",
+    "brand": "Oppo",
+    "sku": "OP-RENO8-016",
+    "thumb": "https://picsum.photos/300/300?random=1015",
+    "images": [
+      "https://picsum.photos/600/600?random=2045",
+      "https://picsum.photos/600/600?random=2046",
+      "https://picsum.photos/600/600?random=2047"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 65,
+    "sold": 30,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 200,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Reno8 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Reno8 Pro",
+    "brand": "Oppo",
+    "sku": "OP-RENO8PRO-017",
+    "thumb": "https://picsum.photos/300/300?random=1016",
+    "images": [
+      "https://picsum.photos/600/600?random=2048",
+      "https://picsum.photos/600/600?random=2049",
+      "https://picsum.photos/600/600?random=2050"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 66,
+    "sold": 32,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 210,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Reno8 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Find X5",
+    "brand": "Oppo",
+    "sku": "OP-FINDX5-018",
+    "thumb": "https://picsum.photos/300/300?random=1017",
+    "images": [
+      "https://picsum.photos/600/600?random=2051",
+      "https://picsum.photos/600/600?random=2052",
+      "https://picsum.photos/600/600?random=2053"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 67,
+    "sold": 34,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 220,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Find X5 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Find X5 Pro",
+    "brand": "Oppo",
+    "sku": "OP-FINDX5PRO-019",
+    "thumb": "https://picsum.photos/300/300?random=1018",
+    "images": [
+      "https://picsum.photos/600/600?random=2054",
+      "https://picsum.photos/600/600?random=2055",
+      "https://picsum.photos/600/600?random=2056"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 68,
+    "sold": 36,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 230,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Find X5 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "A78",
+    "brand": "Oppo",
+    "sku": "OP-A78-020",
+    "thumb": "https://picsum.photos/300/300?random=1019",
+    "images": [
+      "https://picsum.photos/600/600?random=2057",
+      "https://picsum.photos/600/600?random=2058",
+      "https://picsum.photos/600/600?random=2059"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 69,
+    "sold": 38,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 240,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo A78 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "V27",
+    "brand": "Vivo",
+    "sku": "VI-V27-021",
+    "thumb": "https://picsum.photos/300/300?random=1020",
+    "images": [
+      "https://picsum.photos/600/600?random=2060",
+      "https://picsum.photos/600/600?random=2061",
+      "https://picsum.photos/600/600?random=2062"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 70,
+    "sold": 40,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 250,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo V27 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "V27 Pro",
+    "brand": "Vivo",
+    "sku": "VI-V27PRO-022",
+    "thumb": "https://picsum.photos/300/300?random=1021",
+    "images": [
+      "https://picsum.photos/600/600?random=2063",
+      "https://picsum.photos/600/600?random=2064",
+      "https://picsum.photos/600/600?random=2065"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 71,
+    "sold": 42,
+    "stockStatus": "out-of-stock",
+    "rating": 4.1,
+    "reviews": 260,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo V27 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "X80",
+    "brand": "Vivo",
+    "sku": "VI-X80-023",
+    "thumb": "https://picsum.photos/300/300?random=1022",
+    "images": [
+      "https://picsum.photos/600/600?random=2066",
+      "https://picsum.photos/600/600?random=2067",
+      "https://picsum.photos/600/600?random=2068"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 72,
+    "sold": 44,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 270,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo X80 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "X80 Pro",
+    "brand": "Vivo",
+    "sku": "VI-X80PRO-024",
+    "thumb": "https://picsum.photos/300/300?random=1023",
+    "images": [
+      "https://picsum.photos/600/600?random=2069",
+      "https://picsum.photos/600/600?random=2070",
+      "https://picsum.photos/600/600?random=2071"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 73,
+    "sold": 46,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 280,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo X80 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Y36",
+    "brand": "Vivo",
+    "sku": "VI-Y36-025",
+    "thumb": "https://picsum.photos/300/300?random=1024",
+    "images": [
+      "https://picsum.photos/600/600?random=2072",
+      "https://picsum.photos/600/600?random=2073",
+      "https://picsum.photos/600/600?random=2074"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 74,
+    "sold": 48,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 290,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo Y36 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10",
+    "brand": "Realme",
+    "sku": "RE-10-026",
+    "thumb": "https://picsum.photos/300/300?random=1025",
+    "images": [
+      "https://picsum.photos/600/600?random=2075",
+      "https://picsum.photos/600/600?random=2076",
+      "https://picsum.photos/600/600?random=2077"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 75,
+    "sold": 50,
+    "stockStatus": "in-stock",
+    "rating": 4.5,
+    "reviews": 300,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 10 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10 Pro",
+    "brand": "Realme",
+    "sku": "RE-10PRO-027",
+    "thumb": "https://picsum.photos/300/300?random=1026",
+    "images": [
+      "https://picsum.photos/600/600?random=2078",
+      "https://picsum.photos/600/600?random=2079",
+      "https://picsum.photos/600/600?random=2080"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 76,
+    "sold": 52,
+    "stockStatus": "in-stock",
+    "rating": 4.6,
+    "reviews": 310,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 10 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11",
+    "brand": "Realme",
+    "sku": "RE-11-028",
+    "thumb": "https://picsum.photos/300/300?random=1027",
+    "images": [
+      "https://picsum.photos/600/600?random=2081",
+      "https://picsum.photos/600/600?random=2082",
+      "https://picsum.photos/600/600?random=2083"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 77,
+    "sold": 54,
+    "stockStatus": "in-stock",
+    "rating": 4.7,
+    "reviews": 320,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11 Pro",
+    "brand": "Realme",
+    "sku": "RE-11PRO-029",
+    "thumb": "https://picsum.photos/300/300?random=1028",
+    "images": [
+      "https://picsum.photos/600/600?random=2084",
+      "https://picsum.photos/600/600?random=2085",
+      "https://picsum.photos/600/600?random=2086"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 78,
+    "sold": 56,
+    "stockStatus": "out-of-stock",
+    "rating": 4.8,
+    "reviews": 330,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 11 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "C55",
+    "brand": "Realme",
+    "sku": "RE-C55-030",
+    "thumb": "https://picsum.photos/300/300?random=1029",
+    "images": [
+      "https://picsum.photos/600/600?random=2087",
+      "https://picsum.photos/600/600?random=2088",
+      "https://picsum.photos/600/600?random=2089"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 79,
+    "sold": 58,
+    "stockStatus": "in-stock",
+    "rating": 4.9,
+    "reviews": 340,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme C55 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10T",
+    "brand": "OnePlus",
+    "sku": "ON-10T-031",
+    "thumb": "https://picsum.photos/300/300?random=1030",
+    "images": [
+      "https://picsum.photos/600/600?random=2090",
+      "https://picsum.photos/600/600?random=2091",
+      "https://picsum.photos/600/600?random=2092"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 80,
+    "sold": 60,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 350,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 10T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11",
+    "brand": "OnePlus",
+    "sku": "ON-11-032",
+    "thumb": "https://picsum.photos/300/300?random=1031",
+    "images": [
+      "https://picsum.photos/600/600?random=2093",
+      "https://picsum.photos/600/600?random=2094",
+      "https://picsum.photos/600/600?random=2095"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 81,
+    "sold": 62,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 360,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Nord 2T",
+    "brand": "OnePlus",
+    "sku": "ON-NORD2T-033",
+    "thumb": "https://picsum.photos/300/300?random=1032",
+    "images": [
+      "https://picsum.photos/600/600?random=2096",
+      "https://picsum.photos/600/600?random=2097",
+      "https://picsum.photos/600/600?random=2098"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 82,
+    "sold": 64,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 370,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus Nord 2T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Nord CE 3",
+    "brand": "OnePlus",
+    "sku": "ON-NORDCE3-034",
+    "thumb": "https://picsum.photos/300/300?random=1033",
+    "images": [
+      "https://picsum.photos/600/600?random=2099",
+      "https://picsum.photos/600/600?random=2100",
+      "https://picsum.photos/600/600?random=2101"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 83,
+    "sold": 66,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 380,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus Nord CE 3 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11R",
+    "brand": "OnePlus",
+    "sku": "ON-11R-035",
+    "thumb": "https://picsum.photos/300/300?random=1034",
+    "images": [
+      "https://picsum.photos/600/600?random=2102",
+      "https://picsum.photos/600/600?random=2103",
+      "https://picsum.photos/600/600?random=2104"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 84,
+    "sold": 68,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 390,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 11R with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 6",
+    "brand": "Google",
+    "sku": "GO-PIXEL6-036",
+    "thumb": "https://picsum.photos/300/300?random=1035",
+    "images": [
+      "https://picsum.photos/600/600?random=2105",
+      "https://picsum.photos/600/600?random=2106",
+      "https://picsum.photos/600/600?random=2107"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 85,
+    "sold": 70,
+    "stockStatus": "out-of-stock",
+    "rating": 4.0,
+    "reviews": 400,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 6 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 6 Pro",
+    "brand": "Google",
+    "sku": "GO-PIXEL6PRO-037",
+    "thumb": "https://picsum.photos/300/300?random=1036",
+    "images": [
+      "https://picsum.photos/600/600?random=2108",
+      "https://picsum.photos/600/600?random=2109",
+      "https://picsum.photos/600/600?random=2110"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 86,
+    "sold": 72,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 410,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 6 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7",
+    "brand": "Google",
+    "sku": "GO-PIXEL7-038",
+    "thumb": "https://picsum.photos/300/300?random=1037",
+    "images": [
+      "https://picsum.photos/600/600?random=2111",
+      "https://picsum.photos/600/600?random=2112",
+      "https://picsum.photos/600/600?random=2113"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 87,
+    "sold": 74,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 420,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7 Pro",
+    "brand": "Google",
+    "sku": "GO-PIXEL7PRO-039",
+    "thumb": "https://picsum.photos/300/300?random=1038",
+    "images": [
+      "https://picsum.photos/600/600?random=2114",
+      "https://picsum.photos/600/600?random=2115",
+      "https://picsum.photos/600/600?random=2116"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 88,
+    "sold": 76,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 430,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7a",
+    "brand": "Google",
+    "sku": "GO-PIXEL7A-040",
+    "thumb": "https://picsum.photos/300/300?random=1039",
+    "images": [
+      "https://picsum.photos/600/600?random=2117",
+      "https://picsum.photos/600/600?random=2118",
+      "https://picsum.photos/600/600?random=2119"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 89,
+    "sold": 78,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 440,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7a with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "P50",
+    "brand": "Huawei",
+    "sku": "HU-P50-041",
+    "thumb": "https://picsum.photos/300/300?random=1040",
+    "images": [
+      "https://picsum.photos/600/600?random=2120",
+      "https://picsum.photos/600/600?random=2121",
+      "https://picsum.photos/600/600?random=2122"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 90,
+    "sold": 80,
+    "stockStatus": "in-stock",
+    "rating": 4.5,
+    "reviews": 450,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei P50 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "P50 Pro",
+    "brand": "Huawei",
+    "sku": "HU-P50PRO-042",
+    "thumb": "https://picsum.photos/300/300?random=1041",
+    "images": [
+      "https://picsum.photos/600/600?random=2123",
+      "https://picsum.photos/600/600?random=2124",
+      "https://picsum.photos/600/600?random=2125"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 91,
+    "sold": 82,
+    "stockStatus": "in-stock",
+    "rating": 4.6,
+    "reviews": 460,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei P50 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Mate 50",
+    "brand": "Huawei",
+    "sku": "HU-MATE50-043",
+    "thumb": "https://picsum.photos/300/300?random=1042",
+    "images": [
+      "https://picsum.photos/600/600?random=2126",
+      "https://picsum.photos/600/600?random=2127",
+      "https://picsum.photos/600/600?random=2128"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 92,
+    "sold": 84,
+    "stockStatus": "out-of-stock",
+    "rating": 4.7,
+    "reviews": 470,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei Mate 50 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Mate 50 Pro",
+    "brand": "Huawei",
+    "sku": "HU-MATE50PRO-044",
+    "thumb": "https://picsum.photos/300/300?random=1043",
+    "images": [
+      "https://picsum.photos/600/600?random=2129",
+      "https://picsum.photos/600/600?random=2130",
+      "https://picsum.photos/600/600?random=2131"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 93,
+    "sold": 86,
+    "stockStatus": "in-stock",
+    "rating": 4.8,
+    "reviews": 480,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei Mate 50 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "nova 11",
+    "brand": "Huawei",
+    "sku": "HU-NOVA11-045",
+    "thumb": "https://picsum.photos/300/300?random=1044",
+    "images": [
+      "https://picsum.photos/600/600?random=2132",
+      "https://picsum.photos/600/600?random=2133",
+      "https://picsum.photos/600/600?random=2134"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 94,
+    "sold": 88,
+    "stockStatus": "in-stock",
+    "rating": 4.9,
+    "reviews": 490,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei nova 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xperia 1 IV",
+    "brand": "Sony",
+    "sku": "SO-XPERIA1IV-046",
+    "thumb": "https://picsum.photos/300/300?random=1045",
+    "images": [
+      "https://picsum.photos/600/600?random=2135",
+      "https://picsum.photos/600/600?random=2136",
+      "https://picsum.photos/600/600?random=2137"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 95,
+    "sold": 90,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 500,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Sony Xperia 1 IV with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xperia 5 IV",
+    "brand": "Sony",
+    "sku": "SO-XPERIA5IV-047",
+    "thumb": "https://picsum.photos/300/300?random=1046",
+    "images": [
+      "https://picsum.photos/600/600?random=2138",
+      "https://picsum.photos/600/600?random=2139",
+      "https://picsum.photos/600/600?random=2140"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 96,
+    "sold": 92,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 510,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Sony Xperia 5 IV with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xperia 10 V",
+    "brand": "Sony",
+    "sku": "SO-XPERIA10V-048",
+    "thumb": "https://picsum.photos/300/300?random=1047",
+    "images": [
+      "https://picsum.photos/600/600?random=2141",
+      "https://picsum.photos/600/600?random=2142",
+      "https://picsum.photos/600/600?random=2143"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 97,
+    "sold": 94,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 520,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Sony Xperia 10 V with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xperia 1 V",
+    "brand": "Sony",
+    "sku": "SO-XPERIA1V-049",
+    "thumb": "https://picsum.photos/300/300?random=1048",
+    "images": [
+      "https://picsum.photos/600/600?random=2144",
+      "https://picsum.photos/600/600?random=2145",
+      "https://picsum.photos/600/600?random=2146"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 98,
+    "sold": 96,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 530,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Sony Xperia 1 V with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xperia 5 V",
+    "brand": "Sony",
+    "sku": "SO-XPERIA5V-050",
+    "thumb": "https://picsum.photos/300/300?random=1049",
+    "images": [
+      "https://picsum.photos/600/600?random=2147",
+      "https://picsum.photos/600/600?random=2148",
+      "https://picsum.photos/600/600?random=2149"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 99,
+    "sold": 98,
+    "stockStatus": "out-of-stock",
+    "rating": 3.9,
+    "reviews": 540,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Sony Xperia 5 V with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "G60",
+    "brand": "Nokia",
+    "sku": "NO-G60-051",
+    "thumb": "https://picsum.photos/300/300?random=1050",
+    "images": [
+      "https://picsum.photos/600/600?random=2150",
+      "https://picsum.photos/600/600?random=2151",
+      "https://picsum.photos/600/600?random=2152"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 100,
+    "sold": 100,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 550,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Nokia G60 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "X30",
+    "brand": "Nokia",
+    "sku": "NO-X30-052",
+    "thumb": "https://picsum.photos/300/300?random=1051",
+    "images": [
+      "https://picsum.photos/600/600?random=2153",
+      "https://picsum.photos/600/600?random=2154",
+      "https://picsum.photos/600/600?random=2155"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 101,
+    "sold": 102,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 560,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Nokia X30 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "G22",
+    "brand": "Nokia",
+    "sku": "NO-G22-053",
+    "thumb": "https://picsum.photos/300/300?random=1052",
+    "images": [
+      "https://picsum.photos/600/600?random=2156",
+      "https://picsum.photos/600/600?random=2157",
+      "https://picsum.photos/600/600?random=2158"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 102,
+    "sold": 104,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 570,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Nokia G22 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "C32",
+    "brand": "Nokia",
+    "sku": "NO-C32-054",
+    "thumb": "https://picsum.photos/300/300?random=1053",
+    "images": [
+      "https://picsum.photos/600/600?random=2159",
+      "https://picsum.photos/600/600?random=2160",
+      "https://picsum.photos/600/600?random=2161"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 103,
+    "sold": 106,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 580,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Nokia C32 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "XR21",
+    "brand": "Nokia",
+    "sku": "NO-XR21-055",
+    "thumb": "https://picsum.photos/300/300?random=1054",
+    "images": [
+      "https://picsum.photos/600/600?random=2162",
+      "https://picsum.photos/600/600?random=2163",
+      "https://picsum.photos/600/600?random=2164"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 104,
+    "sold": 108,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 590,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Nokia XR21 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14-056",
+    "thumb": "https://picsum.photos/300/300?random=1055",
+    "images": [
+      "https://picsum.photos/600/600?random=2165",
+      "https://picsum.photos/600/600?random=2166",
+      "https://picsum.photos/600/600?random=2167"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 105,
+    "sold": 110,
+    "stockStatus": "in-stock",
+    "rating": 4.5,
+    "reviews": 600,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14 Pro",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14PRO-057",
+    "thumb": "https://picsum.photos/300/300?random=1056",
+    "images": [
+      "https://picsum.photos/600/600?random=2168",
+      "https://picsum.photos/600/600?random=2169",
+      "https://picsum.photos/600/600?random=2170"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 106,
+    "sold": 112,
+    "stockStatus": "out-of-stock",
+    "rating": 4.6,
+    "reviews": 610,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 14 Pro Max",
+    "brand": "Apple",
+    "sku": "AP-IPHONE14PROMAX-058",
+    "thumb": "https://picsum.photos/300/300?random=1057",
+    "images": [
+      "https://picsum.photos/600/600?random=2171",
+      "https://picsum.photos/600/600?random=2172",
+      "https://picsum.photos/600/600?random=2173"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 107,
+    "sold": 114,
+    "stockStatus": "in-stock",
+    "rating": 4.7,
+    "reviews": 620,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 14 Pro Max with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "sku": "AP-IPHONE13-059",
+    "thumb": "https://picsum.photos/300/300?random=1058",
+    "images": [
+      "https://picsum.photos/600/600?random=2174",
+      "https://picsum.photos/600/600?random=2175",
+      "https://picsum.photos/600/600?random=2176"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 108,
+    "sold": 116,
+    "stockStatus": "in-stock",
+    "rating": 4.8,
+    "reviews": 630,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 13 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "iPhone 13 Pro Max",
+    "brand": "Apple",
+    "sku": "AP-IPHONE13PROMAX-060",
+    "thumb": "https://picsum.photos/300/300?random=1059",
+    "images": [
+      "https://picsum.photos/600/600?random=2177",
+      "https://picsum.photos/600/600?random=2178",
+      "https://picsum.photos/600/600?random=2179"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 109,
+    "sold": 118,
+    "stockStatus": "in-stock",
+    "rating": 4.9,
+    "reviews": 640,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Apple iPhone 13 Pro Max with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S22",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS22-061",
+    "thumb": "https://picsum.photos/300/300?random=1060",
+    "images": [
+      "https://picsum.photos/600/600?random=2180",
+      "https://picsum.photos/600/600?random=2181",
+      "https://picsum.photos/600/600?random=2182"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 110,
+    "sold": 120,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 650,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S22 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S22 Ultra",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS22ULTRA-062",
+    "thumb": "https://picsum.photos/300/300?random=1061",
+    "images": [
+      "https://picsum.photos/600/600?random=2183",
+      "https://picsum.photos/600/600?random=2184",
+      "https://picsum.photos/600/600?random=2185"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 111,
+    "sold": 122,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 660,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S22 Ultra with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S23",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS23-063",
+    "thumb": "https://picsum.photos/300/300?random=1062",
+    "images": [
+      "https://picsum.photos/600/600?random=2186",
+      "https://picsum.photos/600/600?random=2187",
+      "https://picsum.photos/600/600?random=2188"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 112,
+    "sold": 124,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 670,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S23 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYS23ULTRA-064",
+    "thumb": "https://picsum.photos/300/300?random=1063",
+    "images": [
+      "https://picsum.photos/600/600?random=2189",
+      "https://picsum.photos/600/600?random=2190",
+      "https://picsum.photos/600/600?random=2191"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 113,
+    "sold": 126,
+    "stockStatus": "out-of-stock",
+    "rating": 3.8,
+    "reviews": 680,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy S23 Ultra with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Galaxy A54",
+    "brand": "Samsung",
+    "sku": "SA-GALAXYA54-065",
+    "thumb": "https://picsum.photos/300/300?random=1064",
+    "images": [
+      "https://picsum.photos/600/600?random=2192",
+      "https://picsum.photos/600/600?random=2193",
+      "https://picsum.photos/600/600?random=2194"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 114,
+    "sold": 128,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 690,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Samsung Galaxy A54 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Redmi Note 12",
+    "brand": "Xiaomi",
+    "sku": "XI-REDMINOTE12-066",
+    "thumb": "https://picsum.photos/300/300?random=1065",
+    "images": [
+      "https://picsum.photos/600/600?random=2195",
+      "https://picsum.photos/600/600?random=2196",
+      "https://picsum.photos/600/600?random=2197"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 115,
+    "sold": 130,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 700,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Redmi Note 12 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Redmi Note 12 Pro",
+    "brand": "Xiaomi",
+    "sku": "XI-REDMINOTE12PRO-067",
+    "thumb": "https://picsum.photos/300/300?random=1066",
+    "images": [
+      "https://picsum.photos/600/600?random=2198",
+      "https://picsum.photos/600/600?random=2199",
+      "https://picsum.photos/600/600?random=2200"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 116,
+    "sold": 132,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 710,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Redmi Note 12 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 12T",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI12T-068",
+    "thumb": "https://picsum.photos/300/300?random=1067",
+    "images": [
+      "https://picsum.photos/600/600?random=2201",
+      "https://picsum.photos/600/600?random=2202",
+      "https://picsum.photos/600/600?random=2203"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 117,
+    "sold": 134,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 720,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 12T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 13",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI13-069",
+    "thumb": "https://picsum.photos/300/300?random=1068",
+    "images": [
+      "https://picsum.photos/600/600?random=2204",
+      "https://picsum.photos/600/600?random=2205",
+      "https://picsum.photos/600/600?random=2206"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 118,
+    "sold": 136,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 730,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 13 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Xiaomi 13 Pro",
+    "brand": "Xiaomi",
+    "sku": "XI-XIAOMI13PRO-070",
+    "thumb": "https://picsum.photos/300/300?random=1069",
+    "images": [
+      "https://picsum.photos/600/600?random=2207",
+      "https://picsum.photos/600/600?random=2208",
+      "https://picsum.photos/600/600?random=2209"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 119,
+    "sold": 138,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 740,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Xiaomi Xiaomi 13 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Reno8",
+    "brand": "Oppo",
+    "sku": "OP-RENO8-071",
+    "thumb": "https://picsum.photos/300/300?random=1070",
+    "images": [
+      "https://picsum.photos/600/600?random=2210",
+      "https://picsum.photos/600/600?random=2211",
+      "https://picsum.photos/600/600?random=2212"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 120,
+    "sold": 140,
+    "stockStatus": "out-of-stock",
+    "rating": 4.5,
+    "reviews": 750,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Reno8 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Reno8 Pro",
+    "brand": "Oppo",
+    "sku": "OP-RENO8PRO-072",
+    "thumb": "https://picsum.photos/300/300?random=1071",
+    "images": [
+      "https://picsum.photos/600/600?random=2213",
+      "https://picsum.photos/600/600?random=2214",
+      "https://picsum.photos/600/600?random=2215"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 121,
+    "sold": 142,
+    "stockStatus": "in-stock",
+    "rating": 4.6,
+    "reviews": 760,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Reno8 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Find X5",
+    "brand": "Oppo",
+    "sku": "OP-FINDX5-073",
+    "thumb": "https://picsum.photos/300/300?random=1072",
+    "images": [
+      "https://picsum.photos/600/600?random=2216",
+      "https://picsum.photos/600/600?random=2217",
+      "https://picsum.photos/600/600?random=2218"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 122,
+    "sold": 144,
+    "stockStatus": "in-stock",
+    "rating": 4.7,
+    "reviews": 770,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Find X5 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Find X5 Pro",
+    "brand": "Oppo",
+    "sku": "OP-FINDX5PRO-074",
+    "thumb": "https://picsum.photos/300/300?random=1073",
+    "images": [
+      "https://picsum.photos/600/600?random=2219",
+      "https://picsum.photos/600/600?random=2220",
+      "https://picsum.photos/600/600?random=2221"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 123,
+    "sold": 146,
+    "stockStatus": "in-stock",
+    "rating": 4.8,
+    "reviews": 780,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo Find X5 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "A78",
+    "brand": "Oppo",
+    "sku": "OP-A78-075",
+    "thumb": "https://picsum.photos/300/300?random=1074",
+    "images": [
+      "https://picsum.photos/600/600?random=2222",
+      "https://picsum.photos/600/600?random=2223",
+      "https://picsum.photos/600/600?random=2224"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 124,
+    "sold": 148,
+    "stockStatus": "in-stock",
+    "rating": 4.9,
+    "reviews": 790,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Oppo A78 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "V27",
+    "brand": "Vivo",
+    "sku": "VI-V27-076",
+    "thumb": "https://picsum.photos/300/300?random=1075",
+    "images": [
+      "https://picsum.photos/600/600?random=2225",
+      "https://picsum.photos/600/600?random=2226",
+      "https://picsum.photos/600/600?random=2227"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 125,
+    "sold": 150,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 800,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo V27 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "V27 Pro",
+    "brand": "Vivo",
+    "sku": "VI-V27PRO-077",
+    "thumb": "https://picsum.photos/300/300?random=1076",
+    "images": [
+      "https://picsum.photos/600/600?random=2228",
+      "https://picsum.photos/600/600?random=2229",
+      "https://picsum.photos/600/600?random=2230"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 126,
+    "sold": 152,
+    "stockStatus": "in-stock",
+    "rating": 3.6,
+    "reviews": 810,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo V27 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "X80",
+    "brand": "Vivo",
+    "sku": "VI-X80-078",
+    "thumb": "https://picsum.photos/300/300?random=1077",
+    "images": [
+      "https://picsum.photos/600/600?random=2231",
+      "https://picsum.photos/600/600?random=2232",
+      "https://picsum.photos/600/600?random=2233"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 127,
+    "sold": 154,
+    "stockStatus": "out-of-stock",
+    "rating": 3.7,
+    "reviews": 820,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo X80 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "X80 Pro",
+    "brand": "Vivo",
+    "sku": "VI-X80PRO-079",
+    "thumb": "https://picsum.photos/300/300?random=1078",
+    "images": [
+      "https://picsum.photos/600/600?random=2234",
+      "https://picsum.photos/600/600?random=2235",
+      "https://picsum.photos/600/600?random=2236"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 128,
+    "sold": 156,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 830,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo X80 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Y36",
+    "brand": "Vivo",
+    "sku": "VI-Y36-080",
+    "thumb": "https://picsum.photos/300/300?random=1079",
+    "images": [
+      "https://picsum.photos/600/600?random=2237",
+      "https://picsum.photos/600/600?random=2238",
+      "https://picsum.photos/600/600?random=2239"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 129,
+    "sold": 158,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 840,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Vivo Y36 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10",
+    "brand": "Realme",
+    "sku": "RE-10-081",
+    "thumb": "https://picsum.photos/300/300?random=1080",
+    "images": [
+      "https://picsum.photos/600/600?random=2240",
+      "https://picsum.photos/600/600?random=2241",
+      "https://picsum.photos/600/600?random=2242"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 130,
+    "sold": 160,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 850,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 10 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10 Pro",
+    "brand": "Realme",
+    "sku": "RE-10PRO-082",
+    "thumb": "https://picsum.photos/300/300?random=1081",
+    "images": [
+      "https://picsum.photos/600/600?random=2243",
+      "https://picsum.photos/600/600?random=2244",
+      "https://picsum.photos/600/600?random=2245"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 131,
+    "sold": 162,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 860,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 10 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11",
+    "brand": "Realme",
+    "sku": "RE-11-083",
+    "thumb": "https://picsum.photos/300/300?random=1082",
+    "images": [
+      "https://picsum.photos/600/600?random=2246",
+      "https://picsum.photos/600/600?random=2247",
+      "https://picsum.photos/600/600?random=2248"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 132,
+    "sold": 164,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 870,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11 Pro",
+    "brand": "Realme",
+    "sku": "RE-11PRO-084",
+    "thumb": "https://picsum.photos/300/300?random=1083",
+    "images": [
+      "https://picsum.photos/600/600?random=2249",
+      "https://picsum.photos/600/600?random=2250",
+      "https://picsum.photos/600/600?random=2251"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 133,
+    "sold": 166,
+    "stockStatus": "in-stock",
+    "rating": 4.3,
+    "reviews": 880,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme 11 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "C55",
+    "brand": "Realme",
+    "sku": "RE-C55-085",
+    "thumb": "https://picsum.photos/300/300?random=1084",
+    "images": [
+      "https://picsum.photos/600/600?random=2252",
+      "https://picsum.photos/600/600?random=2253",
+      "https://picsum.photos/600/600?random=2254"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 134,
+    "sold": 168,
+    "stockStatus": "out-of-stock",
+    "rating": 4.4,
+    "reviews": 890,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Realme C55 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "10T",
+    "brand": "OnePlus",
+    "sku": "ON-10T-086",
+    "thumb": "https://picsum.photos/300/300?random=1085",
+    "images": [
+      "https://picsum.photos/600/600?random=2255",
+      "https://picsum.photos/600/600?random=2256",
+      "https://picsum.photos/600/600?random=2257"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 135,
+    "sold": 170,
+    "stockStatus": "in-stock",
+    "rating": 4.5,
+    "reviews": 900,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 10T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11",
+    "brand": "OnePlus",
+    "sku": "ON-11-087",
+    "thumb": "https://picsum.photos/300/300?random=1086",
+    "images": [
+      "https://picsum.photos/600/600?random=2258",
+      "https://picsum.photos/600/600?random=2259",
+      "https://picsum.photos/600/600?random=2260"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 136,
+    "sold": 172,
+    "stockStatus": "in-stock",
+    "rating": 4.6,
+    "reviews": 910,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Nord 2T",
+    "brand": "OnePlus",
+    "sku": "ON-NORD2T-088",
+    "thumb": "https://picsum.photos/300/300?random=1087",
+    "images": [
+      "https://picsum.photos/600/600?random=2261",
+      "https://picsum.photos/600/600?random=2262",
+      "https://picsum.photos/600/600?random=2263"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 137,
+    "sold": 174,
+    "stockStatus": "in-stock",
+    "rating": 4.7,
+    "reviews": 920,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus Nord 2T with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Nord CE 3",
+    "brand": "OnePlus",
+    "sku": "ON-NORDCE3-089",
+    "thumb": "https://picsum.photos/300/300?random=1088",
+    "images": [
+      "https://picsum.photos/600/600?random=2264",
+      "https://picsum.photos/600/600?random=2265",
+      "https://picsum.photos/600/600?random=2266"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 138,
+    "sold": 176,
+    "stockStatus": "in-stock",
+    "rating": 4.8,
+    "reviews": 930,
+    "releaseDate": "2021-05-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus Nord CE 3 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "11R",
+    "brand": "OnePlus",
+    "sku": "ON-11R-090",
+    "thumb": "https://picsum.photos/300/300?random=1089",
+    "images": [
+      "https://picsum.photos/600/600?random=2267",
+      "https://picsum.photos/600/600?random=2268",
+      "https://picsum.photos/600/600?random=2269"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 139,
+    "sold": 178,
+    "stockStatus": "in-stock",
+    "rating": 4.9,
+    "reviews": 940,
+    "releaseDate": "2022-06-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "OnePlus 11R with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 6",
+    "brand": "Google",
+    "sku": "GO-PIXEL6-091",
+    "thumb": "https://picsum.photos/300/300?random=1090",
+    "images": [
+      "https://picsum.photos/600/600?random=2270",
+      "https://picsum.photos/600/600?random=2271",
+      "https://picsum.photos/600/600?random=2272"
+    ],
+    "price": 5000000,
+    "discount": 0,
+    "quantity": 140,
+    "sold": 180,
+    "stockStatus": "in-stock",
+    "rating": 3.5,
+    "reviews": 950,
+    "releaseDate": "2023-07-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 6 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 6 Pro",
+    "brand": "Google",
+    "sku": "GO-PIXEL6PRO-092",
+    "thumb": "https://picsum.photos/300/300?random=1091",
+    "images": [
+      "https://picsum.photos/600/600?random=2273",
+      "https://picsum.photos/600/600?random=2274",
+      "https://picsum.photos/600/600?random=2275"
+    ],
+    "price": 8000000,
+    "discount": 5,
+    "quantity": 141,
+    "sold": 182,
+    "stockStatus": "out-of-stock",
+    "rating": 3.6,
+    "reviews": 960,
+    "releaseDate": "2024-08-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 6 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7",
+    "brand": "Google",
+    "sku": "GO-PIXEL7-093",
+    "thumb": "https://picsum.photos/300/300?random=1092",
+    "images": [
+      "https://picsum.photos/600/600?random=2276",
+      "https://picsum.photos/600/600?random=2277",
+      "https://picsum.photos/600/600?random=2278"
+    ],
+    "price": 11000000,
+    "discount": 10,
+    "quantity": 142,
+    "sold": 184,
+    "stockStatus": "in-stock",
+    "rating": 3.7,
+    "reviews": 970,
+    "releaseDate": "2021-09-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7 Pro",
+    "brand": "Google",
+    "sku": "GO-PIXEL7PRO-094",
+    "thumb": "https://picsum.photos/300/300?random=1093",
+    "images": [
+      "https://picsum.photos/600/600?random=2279",
+      "https://picsum.photos/600/600?random=2280",
+      "https://picsum.photos/600/600?random=2281"
+    ],
+    "price": 14000000,
+    "discount": 15,
+    "quantity": 143,
+    "sold": 186,
+    "stockStatus": "in-stock",
+    "rating": 3.8,
+    "reviews": 980,
+    "releaseDate": "2022-010-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Pixel 7a",
+    "brand": "Google",
+    "sku": "GO-PIXEL7A-095",
+    "thumb": "https://picsum.photos/300/300?random=1094",
+    "images": [
+      "https://picsum.photos/600/600?random=2282",
+      "https://picsum.photos/600/600?random=2283",
+      "https://picsum.photos/600/600?random=2284"
+    ],
+    "price": 17000000,
+    "discount": 20,
+    "quantity": 144,
+    "sold": 188,
+    "stockStatus": "in-stock",
+    "rating": 3.9,
+    "reviews": 990,
+    "releaseDate": "2023-011-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Google Pixel 7a with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "P50",
+    "brand": "Huawei",
+    "sku": "HU-P50-096",
+    "thumb": "https://picsum.photos/300/300?random=1095",
+    "images": [
+      "https://picsum.photos/600/600?random=2285",
+      "https://picsum.photos/600/600?random=2286",
+      "https://picsum.photos/600/600?random=2287"
+    ],
+    "price": 20000000,
+    "discount": 0,
+    "quantity": 145,
+    "sold": 190,
+    "stockStatus": "in-stock",
+    "rating": 4.0,
+    "reviews": 1000,
+    "releaseDate": "2024-012-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei P50 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "P50 Pro",
+    "brand": "Huawei",
+    "sku": "HU-P50PRO-097",
+    "thumb": "https://picsum.photos/300/300?random=1096",
+    "images": [
+      "https://picsum.photos/600/600?random=2288",
+      "https://picsum.photos/600/600?random=2289",
+      "https://picsum.photos/600/600?random=2290"
+    ],
+    "price": 23000000,
+    "discount": 5,
+    "quantity": 146,
+    "sold": 192,
+    "stockStatus": "in-stock",
+    "rating": 4.1,
+    "reviews": 1010,
+    "releaseDate": "2021-01-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei P50 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Mate 50",
+    "brand": "Huawei",
+    "sku": "HU-MATE50-098",
+    "thumb": "https://picsum.photos/300/300?random=1097",
+    "images": [
+      "https://picsum.photos/600/600?random=2291",
+      "https://picsum.photos/600/600?random=2292",
+      "https://picsum.photos/600/600?random=2293"
+    ],
+    "price": 26000000,
+    "discount": 10,
+    "quantity": 147,
+    "sold": 194,
+    "stockStatus": "in-stock",
+    "rating": 4.2,
+    "reviews": 1020,
+    "releaseDate": "2022-02-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei Mate 50 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "Mate 50 Pro",
+    "brand": "Huawei",
+    "sku": "HU-MATE50PRO-099",
+    "thumb": "https://picsum.photos/300/300?random=1098",
+    "images": [
+      "https://picsum.photos/600/600?random=2294",
+      "https://picsum.photos/600/600?random=2295",
+      "https://picsum.photos/600/600?random=2296"
+    ],
+    "price": 29000000,
+    "discount": 15,
+    "quantity": 148,
+    "sold": 196,
+    "stockStatus": "out-of-stock",
+    "rating": 4.3,
+    "reviews": 1030,
+    "releaseDate": "2023-03-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei Mate 50 Pro with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  },
+  {
+    "categogy": [
+      "SmartPhone"
+    ],
+    "name": "nova 11",
+    "brand": "Huawei",
+    "sku": "HU-NOVA11-100",
+    "thumb": "https://picsum.photos/300/300?random=1099",
+    "images": [
+      "https://picsum.photos/600/600?random=2297",
+      "https://picsum.photos/600/600?random=2298",
+      "https://picsum.photos/600/600?random=2299"
+    ],
+    "price": 32000000,
+    "discount": 20,
+    "quantity": 149,
+    "sold": 198,
+    "stockStatus": "in-stock",
+    "rating": 4.4,
+    "reviews": 1040,
+    "releaseDate": "2024-04-15",
+    "description": [
+      "Display: 6.5–6.8 inch OLED/AMOLED 120Hz",
+      "Processor: Snapdragon / Dimensity",
+      "Camera: 50MP multi-camera",
+      "RAM: 6GB / 8GB / 12GB",
+      "Storage: 128GB / 256GB / 512GB / 1TB",
+      "Battery: 5000mAh with fast charging",
+      "OS: Android 13/14"
+    ],
+    "variants": [
+      {
+        "label": "Color",
+        "variants": [
+          "Black",
+          "White",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "label": "Storage",
+        "variants": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "informations": {
+      "DESCRIPTION": "Huawei nova 11 with high-refresh OLED display, fast chipset, and versatile camera system.",
+      "WARRANTY": "12 months official warranty",
+      "DELIVERY": "2 - 5 business days",
+      "PAYMENT": "Credit Card, Bank Transfer, Installments"
+    }
+  }
+]
